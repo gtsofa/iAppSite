@@ -1,0 +1,23 @@
+html {
+    /* background-color: #536475 url(..img/htmlBG.png) repeat-x; */
+    background-color: #536475;
+}
+
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* GENERAL STYLES*/
+a {
+    color: white;
+}
+
+a.button {
+    /* STYLE BUTTON */
+}
+
+
+#container {
+    position: relative;
+}
