@@ -1,6 +1,6 @@
 html {
     /* background-color: #536475 url(..img/htmlBG.png) repeat-x; */
-    background-color: #536475;
+    background-color: #536474;
 }
 
 body {
@@ -26,7 +26,7 @@ a.button {
 /* header */
 
 #header {
-    background: #222a36;
+    background: #232b40;
 
 }
 
@@ -85,8 +85,8 @@ a.button {
 
 #apps a img {
     float: right;
-    width: 180px;
-    height: 60px;
+    /* width: 180px;
+    height: 60px; */
     padding-top: 28px;
 }
 
