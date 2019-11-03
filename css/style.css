@@ -20,4 +20,76 @@ a.button {
 
 #container {
     position: relative;
+    padding-top: 15px;
+}
+
+/* header */
+
+#header {
+    background: #222a36;
+
+}
+
+#header img {
+    float: left;
+}
+
+#header #nav {
+    float: right;
+    overflow: hidden;
+}
+
+#header #nav li {
+    float: left;
+    background: #5e7285;
+    list-style: none;
+    padding: 6px 9px;
+    height: 14px;
+    line-height: 14px;
+    border-radius: 5px;
+    border: 1px solid #a3b5d4;
+
+}
+
+#nav li a {
+    text-decoration: none;
+    display: block;
+}
+
+/* APPS */
+
+#apps {
+    
+}
+
+#apps ul {
+    display: inline;
+    overflow: hidden;
+    
+}
+
+#apps li {
+    float: left;
+    list-style: none;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 45px;
+    font-weight: bold;
+}
+
+#apps ul li a {
+    text-decoration: none;
+    /* padding-top: 28px; */
+    
+}
+
+#apps a img {
+    float: right;
+    width: 180px;
+    height: 60px;
+    padding-top: 28px;
+}
+
+#apps ul li img {
+    display: block;
 }
